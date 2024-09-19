@@ -1,0 +1,6 @@
+res://default_env.tres
+res://UI/Titlescreen/titlescreen.tscn
+res://Characters/Fox/FoxSprite.tres
+res://Characters/Wolf/WOLF SPRITES.tres
+res://Stages/Stage Assets/Ledge.gd
+res://Characters/Wolf/StateMachineWolf.gd
